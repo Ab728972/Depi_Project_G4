@@ -30,18 +30,18 @@ DataAnalysis
 ---
 
 ##  Project Scope
-- [### Data Preprocessing:
+- [ Data Preprocessing:
 Building a data model, cleaning, and preprocessing the data using SQL, and Python libraries such as pandas and Matplotlib]  
-- [### Exploratory Data Analysis:
+- [ Exploratory Data Analysis:
 Determining and answering a set of analysis questions via the dataset.]  
-- [### Forecasting Model: 
+- [ Forecasting Model: 
 Using Python (scikit-learn, pandas, Matplotlib) to predict future trends, including next month's ridership amount.]  
-- [### Dashboard Creation: 
+- [ Dashboard Creation: 
 Developing a visualization dashboard using Tableau to present the findings.]  
-- [### Final Documentation: 
+- [ Final Documentation: 
 Preparing a final report and presentation that summarizes the data analysis, model development, and deployment phases]  
 
->  **Final Deliverable:** [### Final Deliverable: 
+>  **Final Deliverable:** [ 
 A complete Tableau visualization dashboard , accompanied by a final report and presentation summarizing the entire project work, including data analysis, model development, and deployment]
 
 ---
