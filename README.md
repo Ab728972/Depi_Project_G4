@@ -3,11 +3,11 @@ DataAnalysis
 ---
 
 ##  Team Members
-- **[Abdullah Hasan]**  
-- **[Ali]**  
-- **[Carol Amir]**  
-- **[Martina Marco]**  
-- **[Meriam Maged]**
+- **[Abdullah Hasan Fathy ]**  
+- **[Ali waleed Mohammed ]**  
+- **[Carol Amir Maher]**  
+- **[Martina Marco Dawood ]**  
+- **[Meriam Maged Zaki]**
 
 ---
 
